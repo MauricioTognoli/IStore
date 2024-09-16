@@ -11,12 +11,9 @@ IStore es una aplicación de e-commerce que permite a los usuarios navegar, filt
 
 ## Características
 
-- **Filtrado avanzado** por categorías y búsqueda por nombre de producto.
 - **Interfaz responsive** diseñada con Tailwind CSS.
 - **Autenticación de usuarios** para iniciar sesión y realizar compras.
-- **Gestión de productos** con funcionalidades para agregar, editar o eliminar productos (para administradores).
-- **Soporte para modo claro y oscuro**.
-- **Integración con Cloudinary** para subir imágenes de perfil de usuarios y productos.
+- **Gestión de productos** con funcionalidades para agregar, editar o eliminar productos
 
 ## Tecnologías
 
